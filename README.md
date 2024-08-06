@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanyashree</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on **Full stack web development**
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **C Java HTML CSS**
 
 - 📫 How to reach me **dhanya17naik2gmail.com**
+
+- ⚡ Fun fact **I'm passionate about Full stack development but not intrested in backend!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
