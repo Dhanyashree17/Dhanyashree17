@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dhanyashree</h1>
 <h3 align="center">A passionate web developer</h3>
 
@@ -9,11 +10,12 @@
 
 - 📫 How to reach me **dhanya17naik2gmail.com**
 
-- ⚡ Fun fact **I'm passionate about Full stack development but not intrested in backend!!**
+- ⚡ Fun fact **I'm passionate about Full stack development but not interested in backend!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhanya-shree-0a538822a" target="_blank" rel="noreferrer"> 
+  <a href="https://linkedin.com/in/dhanya shree" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanya shree" height="30" width="40"/>
   </a>
 </p>
 
@@ -69,3 +71,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanyashree17&show_icons=true&locale=en&layout=compact" alt="dhanyashree17" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanyashree17&show_icons=true&locale=en" alt="dhanyashree17" /></p>
+```
