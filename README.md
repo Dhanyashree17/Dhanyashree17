@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/dhanya-shree-0a538822a"> 
 </p>
 
 <h3 align="left">Languages:</h3>
