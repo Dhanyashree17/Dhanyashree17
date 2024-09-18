@@ -3,11 +3,11 @@
 <h3 align="center">A passionate web developer</h3>
 
 
-- 🔭 I’m currently working on **Full stack web development**
+- 🔭 I’m currently working on **Java Full stack web development**
 
 - 🌱 I’m currently learning **Python and Javascript**
 
-- 💬 Ask me about **C Java HTML CSS**
+- 💬 Ask me about **C Java HTML CSS Hibernate**
 
 - 📫 How to reach me **dhanya17naik2gmail.com**
 
